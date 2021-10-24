@@ -1,41 +1,21 @@
 ---
-Moniker: wave
-Validator: terravaloper1hqzf3tnw0py69xd5swwr3c7tqcumwjzdzqca7l
-Email: nionocto@gmail.com
-Telegram: @WaveWays
-Website: https://bity.hns.to/
+Moniker: KysenPool Moon
+Validator: terravaloper1vqnhgc6d0jyggtytzqrnsc40r4zez6tx99382w
+Email: developers@kysenpool.io
+Telegram: https://t.me/kysenpool
+Website: https://kysenpool.io/ 
 ---
 
- ![wavelogo](wavelogo.png)
+ ![image](https://user-images.githubusercontent.com/93069821/138588139-b9d26f0c-2978-4743-b0f7-9e3471819872.png)
 
-# <moniker> 
-Tendermint-based chains validator.
-
-## Team
-
-Wave is a team of 3 engineers structured arround a Dev Ops, a BackEnd Engineer and a Tech lead. We believe that the anonymity is stronger and more resilient than the reputation in many aspects of the blockchain world.
+About Kysen Technologies
+Meet KysenPool -- Global Proof-of-Stake Validator experienced operating nodes for Cardano (ADA), Cosmos (ATOM), Terra (LUNA), Harmony (ONE), Kava (KAVA) and Desmos (DSM).
+ We are responsible for well over $300M USD worth of tokens delegated across our validators. Our infrastructure is a hybrid of data centres (with Hardware Security Modules / HSMs), and multiple Cloud providers. Our mission is to help decentralize the Proof-of-Stake blockchain ecosystem. We're highly familiar with the Tendermint-based blockchains such as Cosmos, Terra, Kava and Desmos; EVM-compatible Layer-1 chains like Harmony; and complex setups with Cardano. Our team is located around the world to improve our operations and building insights for the chains we support. 
 
 
-| Name            | Role    | 
-| --------------- | ------- | 
-| Abef            | CTO     | 
-| Maxime S.       | DevOps  | 
-| Matthieu M.     | Backend | 
-
-## Our Architecture
-
-We are sticking to the best practice with Sentries → relay nodes → validator → HSM. Our main infra is deployed in Google Cloud, our backup infra is OVH.
-Prometheus analytics, Prometheus node exporter, grafana and others script for DDOS mitigation and reporting tools.
-
-## Ecosystem Contributions
-
-Actives members of many tendermint based chain. We don’t abstain on governance proposal and discuss the tradeoff of each proposal for the networks we are validating. 
-We are using an independent oracle server.
-
-## Contact Us
-
-The best way to have a quick answer is: Discord: @Waves#9228 or Telgram: @WaveWays
-
-### Website
-
-https://bity.hns.to/
+For More Information :
+Email: developers@kysenpool.io 
+Website: https://kysenpool.io/ 
+Twitter: https://twitter.com/kysenpool 
+Telegram: https://t.me/kysenpool 
+Medium: https://medium.com/kysenpool 
