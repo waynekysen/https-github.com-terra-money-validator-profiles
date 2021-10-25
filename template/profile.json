@@ -1,6 +1,9 @@
 {
   "contact": {
-    "email": "nionocto@gmail.com",
-    "telegram": "@WaveWays"
-  }
+    "email": "developers@kysenpool.io",
+    "telegram": "https://t.me/kysenpool"
+  },
+    "notifications": { 
+        "email": "developers@kysenpool.io" 
+    }
 }
