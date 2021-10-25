@@ -2,5 +2,8 @@
   "contact": {
     "email": "developers@kysenpool.io",
     "telegram": "https://t.me/kysenpool"
-  }
+  },
+    "notifications": { // notification settings
+        "email": "tdevelopers@kysenpool.io" 
+    }
 }
